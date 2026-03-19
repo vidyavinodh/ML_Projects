@@ -9,3 +9,4 @@ Projects with links to their GitHub repositories:
 | Employee Attrition Analysis| Analyzing employee attrition using machine learning models to predict turnover.  | [View Project](https://github.com/vidyavinodh/Employee-Attrition-Analysis) |
 |Customer Segmentation | This project performs customer segmentation using KMeans clustering on the Mall Customers dataset. | [View Project](https://github.com/vidyavinodh/Customer_Segmentation-K-Means-) |
 |Stock Price Prediction | This project predicts stock prices using machine learning regression models. | [View Project](https://github.com/vidyavinodh/Stock_price_prediction) |
+|Employee Turnover Analytics | This project predicts the employee tunover and suggests the various retention strategies. | [View Project](https://github.com/vidyavinodh/Employee_Turnover_Analytics) |
