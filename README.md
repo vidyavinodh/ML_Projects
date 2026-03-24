@@ -12,3 +12,4 @@ Projects with links to their GitHub repositories:
 |Employee Turnover Analytics | This project predicts the employee tunover and suggests the various retention strategies. | [View Project](https://github.com/vidyavinodh/Employee_Turnover_Analytics) |
 |Creating cohorts of songs | This project aims to do cluster analysis on the Spotify dataset and recommend songs to users based on their interests.| [View Project](https://github.com/vidyavinodh/Creating_cohorts_of_songs)
 |Healthcare Cost Prediction | This project aims to predict individual healthcare costs using demographic and lifestyle factors with machine learning.| [View Project](https://github.com/vidyavinodh/Healthcare_cost_prediction)
+|SMS Spam Detection using NLP | SMS spam detection using multiple Natural Language Processing techniques and machine learning models.| [View Project](https://github.com/vidyavinodh/SMS_Spam_Detection_using_NLP)
